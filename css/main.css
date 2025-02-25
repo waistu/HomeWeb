@@ -482,7 +482,7 @@ a.linkbutton.error {
   background: var(--heo-secondbg);
   margin-top: 80px;
   align-items: center;
-  gap: 8px
+  gap: 8px;
 }
 
 .footer .info {
