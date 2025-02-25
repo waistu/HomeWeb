@@ -19,4 +19,3 @@ function closePopupOutside(event) {
     }
 }
 
-
