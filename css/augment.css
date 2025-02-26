@@ -103,3 +103,20 @@ a.help {
 a.help:visited {
     color: #000;
 }
+
+.mpbutton {
+    padding: 6px 20px;
+    display: flex;
+    background: var(--heo-blue);
+    color: var(--heo-white);
+    font-size: 14px;
+    border-radius: 21px;
+    transition: .3sease-in-out;
+    width: fit-content;
+    white-space: nowrap;
+    box-shadow: var(--heo-shadow-main);
+}
+
+a.linkbutton {
+    cursor: pointer;
+}
